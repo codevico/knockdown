@@ -4,7 +4,9 @@ Download Instagram/Twitter videos/gifs/stories as mp4 files.
 ## Usage
 
 1- Place your mouse over a video.
+
 2- Press Ctrl+Q.
+
 3- A new tab will be opened with an mp4 file. Right click and download it.
 
 ## Download
