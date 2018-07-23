@@ -1,0 +1,32 @@
+{
+
+  "manifest_version": 2,
+  "name": "Knockdown",
+  "version": "0.3",
+
+  "description": "Download Instagram/Twitter videos/gifs/stories as mp4 files. Place mouse over an element and press [Ctrl+Q]",
+
+  "icons": {
+    "48": "unv-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/*"],
+      "js": ["jquery.js", "knockdown-ig.js"],
+      "run_at": "document_end"
+    },
+    {
+      "matches": ["*://*.twitter.com/*"],
+      "js": ["jquery.js", "knockdown-tw.js"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "applications": {
+    "gecko": {
+    "id": "jacktritus@gmail.com"
+      }
+  }
+
+}
