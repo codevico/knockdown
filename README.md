@@ -9,7 +9,7 @@ Download Instagram/Twitter videos/gifs/stories as mp4 files.
 
 ## Download
 
-See (https://github.com/codevico/knockdown/releases)[releases].
+See [releases](https://github.com/codevico/knockdown/releases).
 
 ## Requirements
 
