@@ -1,6 +1,16 @@
 # knockdown
 Download Instagram/Twitter videos/gifs/stories as mp4 files.
 
+## Requirements
+
+### Important!
+
+You're going to need Firefox Developer Edition for now.
+
+1- To enable unsigned addons, go to about:config and set *xpinstall.signatures.required* to **false**.
+
+2- To install, go to about:addons, add plugin from file, and select the zip.
+
 ## Usage
 
 1- Place your mouse over a video.
@@ -12,7 +22,3 @@ Download Instagram/Twitter videos/gifs/stories as mp4 files.
 ## Download
 
 See [releases](https://github.com/codevico/knockdown/releases).
-
-## Requirements
-
-You're going to need Firefox Developer Edition for now. Go to extensions, add plugin from file, and select the zip.
