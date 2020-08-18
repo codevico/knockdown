@@ -1,6 +1,9 @@
 # knockdown
 Download Instagram/Twitter videos/gifs/stories as mp4 files.
 
+*UPDATE: Both sites are broken; as of now, i've fixed the instagram one (see source).
+will release an instagram-only zip soon.*
+
 ## Requirements
 
 ### Important!
